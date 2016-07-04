@@ -46,22 +46,32 @@
 
 }
 .skills{
-    background-color: #003eff;
+    background-color: #3dc1ff;
     background-size: cover;
-    min-height: 540px;
+    min-height: 550px;
 }
 .experience{
-    background-color: #ff63de;
+    background-color: #73cdff;
     background-size: cover;
-    min-height: 600px;
+    min-height: 550px;
+
 }
-.portfolio{
-    background-color: #3cffbc;
+.education{
+    background-color: #28c2ff;
     background-size: cover;
-    min-height: 600px;
+    min-height: 550px;
 }
 .contacts{
-    background-color: #3eb5ff;
+    background-color: #29b2ff;
     background-size: cover;
-    min-height: 600px;
+    min-height: 550px;
+}
+h2{
+    text-align: center;
+    padding: 3%;
+}
+
+.row{
+    margin: 5%;
+    margin-top: 0;
 }
