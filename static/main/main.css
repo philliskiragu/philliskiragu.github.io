@@ -1,28 +1,51 @@
-.img-circle{
+.img-circle {
     border-radius: 50%;
     position: absolute;
     top: 20%;
-    left:35%;
+    left: 35%;
 
 }
-.banner{
-    background-color: #b9def0;
+.ul-no-bullets
+{
+    list-style-type: none;
+
+}
+.ul-no-bullets li a:hover {
+    text-decoration: none;
+}
+
+.ul-no-bullets li a img{
+    width: 55px;
+    height: 55px;
+}
+
+.ul-no-bullets li a img:hover{
+    width: 75px;
+    height: 75px;
+
+}
+
+.banner {
+    background-color: #03A9F4;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     -ms-background-size: cover;
-    min-height:700px;
+    min-height: 700px;
 }
-.banner-info  {
-    padding:17em 0 0;
+
+.banner-info {
+    padding: 17em 0 0;
     position: absolute;
 }
+
 .scroll {
     margin: 0em 0 0;
     text-align: center;
     background-color: #ffc907;
 }
+
 .banner-info h2 {
     color: #fff;
     font-size: 5em;
@@ -34,44 +57,53 @@
     width: 60%;
 
 }
+
 .banner-info h3 {
     color: #fff;
     font-size: 2em;
     text-align: center;
     margin: 1em 0 0;
     font-weight: 400;
-    background-color:rgba(63, 78, 98, 0.49);
+    background-color: rgba(63, 78, 98, 0.49);
     padding: 0.4em 1em;
     width: 50%;
 
 }
-.skills{
-    background-color: #3dc1ff;
-    background-size: cover;
-    min-height: 550px;
-}
-.experience{
-    background-color: #73cdff;
-    background-size: cover;
-    min-height: 550px;
 
+.skills {
+    background-color: #B3E5FC;
+    margin-top: 0;
+    margin-bottom: 0;
+    height: 550px;
 }
-.education{
-    background-color: #28c2ff;
-    background-size: cover;
-    min-height: 550px;
+
+.experience {
+    background-color: #03A9F4;
+    margin-top: 0;
+    margin-bottom: 0;
+    height: 550px;
 }
-.contacts{
-    background-color: #29b2ff;
-    background-size: cover;
-    min-height: 550px;
+
+.education {
+    background-color: #B3E5FC;
+    margin-top: 0;
+    margin-bottom: 0;
+    height: 550px;
 }
-h2{
+
+.contacts {
+    background-color: #03A9F4;
+    margin-top: 0;
+    margin-bottom: 0;
+    height: 550px;
+}
+
+h2 {
     text-align: center;
     padding: 3%;
 }
 
-.row{
+.row {
     margin: 5%;
     margin-top: 0;
 }
