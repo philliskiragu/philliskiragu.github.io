@@ -5,23 +5,26 @@
     left: 35%;
 
 }
+
 .ul-no-bullets
 {
     list-style-type: none;
-
 }
+
 .ul-no-bullets li a:hover {
     text-decoration: none;
+
 }
 
 .ul-no-bullets li a img{
-    width: 55px;
-    height: 55px;
+    width: 100px;
+    height: 100px;
+
 }
 
 .ul-no-bullets li a img:hover{
-    width: 75px;
-    height: 75px;
+    width: 120px;
+    height: 120px;
 
 }
 
@@ -82,6 +85,8 @@
     margin-top: 0;
     margin-bottom: 0;
     height: 550px;
+    color: #ffffff;
+
 }
 
 .education {
@@ -96,6 +101,8 @@
     margin-top: 0;
     margin-bottom: 0;
     height: 550px;
+    color: #ffffff;
+
 }
 
 h2 {
