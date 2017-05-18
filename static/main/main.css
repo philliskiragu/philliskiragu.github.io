@@ -1,9 +1,19 @@
-.img-circle {
-    border-radius: 50%;
-    position: absolute;
-    top: 20%;
-    left: 35%;
+/**
+* @Author: Phillis Kiragu <PKiragu>
+* @Date:   2016-10-31T12:21:11+03:00
+* @Email:  pkiragu@cytonn.com
+* @Last modified by:   PKiragu
+* @Last modified time: 2017-05-18T11:36:16+03:00
+*/
 
+
+
+.avatar {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  display: inline-block !important;
+  margin-right: 20px;
 }
 
 .ul-no-bullets
@@ -29,7 +39,7 @@
 }
 
 .banner {
-    background-color: #03A9F4;
+    background-color: whitesmoke;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
