@@ -29,7 +29,7 @@
 }
 
 .banner {
-    background-color: #03A9F4;
+    background-color: whitesmoke;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -50,7 +50,7 @@
 }
 
 .banner-info h2 {
-    color: #fff;
+    color: #000;
     font-size: 5em;
     text-align: center;
     margin: 0;
@@ -62,7 +62,7 @@
 }
 
 .banner-info h3 {
-    color: #fff;
+    color: #000;
     font-size: 2em;
     text-align: center;
     margin: 1em 0 0;
@@ -74,14 +74,14 @@
 }
 
 .skills {
-    background-color: #B3E5FC;
+    background-color: whitesmoke;
     margin-top: 0;
     margin-bottom: 0;
     height: 800px;
 }
 
 .experience {
-    background-color: #03A9F4;
+    background-color: whitesmoke;
     margin-top: 0;
     margin-bottom: 0;
     height: 550px;
@@ -90,14 +90,14 @@
 }
 
 .education {
-    background-color: #B3E5FC;
+    background-color: whitesmoke;
     margin-top: 0;
     margin-bottom: 0;
     height: 550px;
 }
 
 .contacts {
-    background-color: #03A9F4;
+    background-color: whitesmoke;
     margin-top: 0;
     margin-bottom: 0;
     height: 550px;
